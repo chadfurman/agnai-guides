@@ -1,5 +1,5 @@
 ---
 layout: default
-title: "hosting_and_management"
+title: "Hosting And Management"
 has_children: true
 ---

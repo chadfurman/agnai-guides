@@ -1,5 +1,5 @@
 ---
 layout: page
 title: "Choosing AI Model"
-parent: deep_dives
+parent: "Deep Dives"
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: "character_creation"
+title: "Character Creation"
 has_children: true
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: "running_locally"
+title: "Running Locally"
 has_children: true
 ---

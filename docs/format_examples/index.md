@@ -1,5 +1,5 @@
 ---
 layout: default
-title: "format_examples"
+title: "Format Examples"
 has_children: true
 ---

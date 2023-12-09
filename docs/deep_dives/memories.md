@@ -1,5 +1,5 @@
 ---
 layout: page
 title: "Memories"
-parent: deep_dives
+parent: "Deep Dives"
 ---

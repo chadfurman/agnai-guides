@@ -1,5 +1,5 @@
 ---
 layout: default
-title: "bots"
+title: "Bots"
 has_children: true
 ---

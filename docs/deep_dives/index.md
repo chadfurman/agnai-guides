@@ -1,5 +1,5 @@
 ---
 layout: default
-title: "deep_dives"
+title: "Deep Dives"
 has_children: true
 ---

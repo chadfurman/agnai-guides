@@ -1,5 +1,5 @@
 ---
 layout: default
-title: "troubleshooting"
+title: "Troubleshooting"
 has_children: true
 ---

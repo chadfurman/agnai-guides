@@ -1,5 +1,5 @@
 ---
 layout: default
-title: "presets_and_prompts"
+title: "Presets And Prompts"
 has_children: true
 ---

@@ -1,5 +1,5 @@
 ---
 layout: page
 title: "Overview"
-parent: character_creation
+parent: "Character Creation"
 ---
