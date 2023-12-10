@@ -1,7 +1,7 @@
 ---
 title: "What is an LLM"
 layout: default
-nav_order: 1
+nav_order: 2
 ---
 # What is an LLM
 
