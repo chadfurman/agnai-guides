@@ -4,12 +4,13 @@ title: "Quick Start"
 has_children: False
 nav_order: 1
 ---
+# Quick Start
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JgT2jLMSOP0?si=W0U0PDqhfUT62lHa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Done with the video?  Skip ahead to [some more things to try](#some-next-things-to-try).
 
-# Quick start
+## Step-by-Step
 
 1. Load up the Agnai interface
     * go to the website (https://agnai.chat)

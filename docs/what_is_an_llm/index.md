@@ -3,6 +3,7 @@ title: "What is an LLM"
 layout: default
 nav_order: 1
 ---
+# What is an LLM
 
 LLM, or Large Language Model, forms the foundation of Agnai, acting as the central mechanism that allows creation of chat bots. These advanced models are trained to understand and generate human-like text based on input, thus providing a conversational interface.
 
