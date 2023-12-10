@@ -13,6 +13,6 @@ These LLMs come in a range of choices. Agnai provides both free and paid LLMs an
 
 A unique feature of Agnai is its flexibility and adaptability to work with various LLMs. It aims to provide users with the freedom to create chat bots that work the way users want, instead of imposing on our users what a chat bot should be.  The variety of LLMs on offer ensures that there is something to suit everyone's tastes, whether one prefers the Kobold Horde or their own custom Self-hosted model.
 
-Do note that when interacting with an LLM, responses can vary. These depend on the complexity of the request, the LLM service being used, and other factors.  Also, please take a moment to read through our [AI Safety guide](/ai-safety) so you can better understand the risks involved with using LLMs for various activities.
+Do note that when interacting with an LLM, responses can vary. These depend on the complexity of the request, the LLM service being used, and other factors.  Also, please take a moment to read through our [AI Safety guide](/docs/ai-safety) so you can better understand the risks involved with using LLMs for various activities.
 
 Remember, the power of LLMs lies in their ability to generate creative, diverse and human-like conversation. So, harness their potential and enjoy your journey into the world of Agnai!
