@@ -2,7 +2,6 @@
 title: "Memory"
 layout: default
 nav_order: 6
-nav_exclude: true
 has_children: true
 ---
 # Memory
