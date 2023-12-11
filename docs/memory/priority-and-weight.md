@@ -2,6 +2,8 @@
 title: "Priority and Weight"
 layout: default
 nav_order: 6
+has_parent: true
+parent: "Memory"
 ---
 # Priority and Weight
 

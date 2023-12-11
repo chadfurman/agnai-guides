@@ -2,6 +2,8 @@
 title: "Chat Embeds"
 layout: default
 nav_order: 6
+has_parent: true
+parent: "Memory"
 ---
 # Chat Embeds
 
