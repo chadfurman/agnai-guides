@@ -2,6 +2,7 @@
 title: "What is an LLM"
 layout: default
 nav_order: 2
+is_parent: true
 ---
 # What is an LLM
 
