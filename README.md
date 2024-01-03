@@ -3,7 +3,7 @@ GitHub Pages Repo for Agnai guides
 
 Missing Pages:
 
-* [ ] ./docs/what-is-an-llm/choosing-a-language-model.md
+* [x] ./docs/what-is-an-llm/choosing-a-language-model.md
 * [ ] ./docs/chat-settings/advanced-settings.md
 * [ ] ./docs/chat-settings/index.md
 * [ ] ./docs/chat-settings/prompt-templates.md

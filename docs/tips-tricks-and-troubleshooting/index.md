@@ -1,7 +1,7 @@
 ---
 title: "Tips, Tricks, and Troubleshooting"
 layout: default
-is_parent: True
+has_children: true
 nav_order: 9
 ---
 # Tips, Tricks, and Troubleshooting
