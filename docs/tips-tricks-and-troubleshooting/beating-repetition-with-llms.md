@@ -65,7 +65,9 @@ Switching the template format or modifying the UJB with {{random choice A, choic
 An example of a UJB that might help with repetition is as follows:
 
 ```
-Describe {{{{random feelings, sounds, sights, thoughts, smells}}}} {{{{random in vivid detail, using colorful language, focusing on the environment, briefly, and then talk about something else, and then say something random}}}}.
+{% raw %}
+Describe {{random feelings, sounds, sights, thoughts, smells}} {{random in vivid detail, using colorful language, focusing on the environment, briefly, and then talk about something else, and then say something random}}.
+{% endraw %}
 ```
 
 The above will generate UJBs that vary each message, so one message you might get "Describe feelings in vivid detail" while another you might get "Describe smells focusing on the environment".  Changing the dominant instructions in your prompt (i.e. the UJB) can have a direct effect on the model's output -- for better or worse.  Feel free to pick your own options for the random tag.
