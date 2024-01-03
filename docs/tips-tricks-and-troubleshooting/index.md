@@ -1,11 +1,23 @@
 ---
 title: "Tips, Tricks, and Troubleshooting"
 layout: default
+is_parent: True
 nav_order: 9
 ---
 # Tips, Tricks, and Troubleshooting
 
-Thank you for your interest in the "Tips, Tricks, and Troubleshooting" section!
+Several of the most common issues are outlined here:
 
-Unfortunately, we haven't yet provided detailed information about this topic, but we're working on it. If this topic is important to you, please let us know on our Discord channel, and we'll prioritize our work accordingly. We appreciate your interest in Agnai and your understanding as we continually improve our documentation.
+* [Repetition of phrases or whole messages](/docs/tips-tricks-and-troubleshooting/beating-repetition-with-llms)
+* Characters going off topic or ignoring your messages
+* Random gibberish
+* Lack of creativity
+* Responses being too short
+* Responses being too long
+
+Additionally, some useful features of Agnaistic are outlined below:
+
+* Using random and roll keywords
+* Narrator bots
+* Using Agnaistic for schoolwork
 
