@@ -73,5 +73,3 @@ The above will generate UJBs that vary each message, so one message you might ge
 ## Change the model
 
 A potentially silly but equally useful option is to pick a different model.  Given the same context, a 7b might generate different results than a 70b, so while it may have less parameters it can still be interesting to switch to the 7b or the 13b for a few generations and then switch back to the 70b (or vice versa).
-
-1. Switch to a different model
