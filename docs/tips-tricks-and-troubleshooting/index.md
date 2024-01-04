@@ -9,7 +9,7 @@ nav_order: 9
 Several of the most common issues are outlined here:
 
 * [Repetition of phrases or whole messages](/docs/tips-tricks-and-troubleshooting/beating-repetition-with-llms)
-* Characters going off topic or ignoring your messages
+* [Characters going off topic or ignoring your messages](/)
 * Random gibberish
 * Lack of creativity
 * Responses being too short
