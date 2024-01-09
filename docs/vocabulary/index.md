@@ -9,31 +9,34 @@ Agnaistic has several common terms which may not immediately be understood by ne
 
 **Note** if a term you're curious about is not listed below, please reach out on our discord and we can update this guide.
 
-Character Cards
-Group Chats
-Narrator Bots
-LLM / Models
-Context
-Memory
-Chat Embeddings
-User Embeddings
 Advanced Settings
 Author's Note
-Ultimate Jail Break (UJB)
-System Prompt
-Scenario
-Persona
-Example Chats / Example Dialog
+Character Cards
+Chat Embeddings
 Chat History
-Temperature
-Top K
-Top P
-Mirostat Tau / Mirostat Eta
+Context
+Example Chats / Example Dialog
+Frequency Penalty
+Group Chats
+LLM / Models
+Memory: 
+Mirostat: 
+Narrator Bots
+Persona
+Presence Penalty
 Repetition Penalty
 Repetition Penalty Range
 Repetition Penalty Slope
-Presence Penalty
-Frequency Penalty
 Repetition Range
+Scenario
+System Prompt
+Temperature
+Tokens
+Tau: See Mirostat
+Eta: See Mirostat
+Top K
+Top P
+Ultimate Jail Break (UJB)
+User Embeddings
 
 
